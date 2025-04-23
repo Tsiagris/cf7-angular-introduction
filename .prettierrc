@@ -1,0 +1,8 @@
+{
+  "overrides": [{
+    "files":"*.hmtl",
+    "options": {
+      "parser":"angular"
+    }
+}]
+}
